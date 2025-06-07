@@ -17,7 +17,8 @@ I’m open to collaborations on **AI/ML projects**, especially in:
 ## 📫 How to Reach Me  
 - **LinkedIn**: [https://www.linkedin.com/in/avirup-das-346266236/]  
 - **Email**: [avirupdas221@gmail.com]  
-- **GitHub**: [github.com/Avirup221](https://github.com/Avirup221)  
+- **GitHub**: [github.com/Avirup221](https://github.com/Avirup221)
+- **Portfolio**:[https://avirup221.github.io/]
 
 
 
