@@ -52,16 +52,38 @@ I love building practical ML/DL solutions and working on real-world intelligent 
 ---
 
 
-# 🚀 1️⃣ Generative AI Work
+# 🚀 Generative AI Projects
 
-Projects focused on LLMs, AI automation, and intelligent systems.
+---
 
-### 🔹 AI-Assisted Interview System
-- AI-powered interactive interview assistant  
-- Focused on conversational AI and structured response evaluation  
-### 🔹 NewsSense AI
-- Data-driven news exploration  
-- NLP-based analysis experiments
+## 🎙️ AI Assisted Interview Coach
+
+An intelligent, voice-interactive technical interview coach that helps users practice interviews using their own resume.  
+Powered by **Groq (Llama 3), Faster Whisper, and Text-to-Speech**.
+
+- Built a real-time **voice-interactive interview system** that generates technical questions dynamically from the user's resume.
+- Integrated **Faster Whisper (Speech-to-Text)** and **Text-to-Speech (TTS)** for seamless two-way conversational interaction.
+- Designed structured evaluation logic to simulate realistic interview environments with intelligent follow-up questioning.
+
+---
+
+## 🛒 Multi-Agent Smart Shopping Intelligence (Agentic RAG)
+
+A multi-agent GenAI shopping assistant built with **LangGraph, Groq LLM, and SerpAPI**.
+
+- Developed a **multi-agent RAG pipeline** to fetch, filter, deduplicate, and rank live product listings from Google Shopping.
+- Implemented budget and preference-based constraint filtering with intelligent scoring and ranking mechanisms.
+- Generated structured comparison tables and final LLM-powered recommendations for real-world purchase decision support.
+
+---
+
+## 📰 NewsSense AI (Agentic GenAI System)
+
+An agentic GenAI system built using **LangChain, RAG, AI Agents, and Streamlit** for intelligent news analysis and fact-checking.
+
+- Built an AI agent workflow that retrieves and summarizes news articles directly from a provided URL.
+- Integrated trusted external sources (Wikipedia, NewsAPI) for automated fact-checking and validation.
+- Deployed an interactive Streamlit application performing sentiment analysis and delivering real-time news insights.
 
 
 
